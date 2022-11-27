@@ -1,0 +1,133 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&display=swap');
+
+body {
+    margin:0px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.main-section{
+    padding: 20px;
+
+}
+
+.image-container{
+    height: 500px;
+    background-image: url(https://pugliablu.com/components/com_djclassifieds/images/item/753_parigi_thb.jpg);
+   
+    
+
+}
+
+h1 {
+    font-family: 'Prata', serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-family: 'Prata', serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ #special-p { 
+font-weight: 600;
+font-style: italic;
+text-decoration: none;
+color:#1772e1;
+
+ }
+
+h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background:linear-gradient(120deg,#1082ec,#cdd2e5 )
+}
+
+ul {
+    padding: 0%;
+    list-style-type: none;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: #dfdfdf;
+    
+    }
+
+a {
+        text-decoration: none;
+        color: #175ee1;
+
+    }
+
+footer{
+
+    padding: 16px;
+    text-align: center;
+}
+
+#special-a{ 
+    background-color: black;
+    color: white;
+    
+}
+
+#gradient1{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background:linear-gradient(120deg,rgb(120, 55, 3),#ab9973 )
+}
+
+#gradient2{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background:linear-gradient(120deg,rgb(11, 174, 238),#dee6ea )
+
+}
+
+#gradient3{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background:linear-gradient(120deg,rgb(218, 38, 80),#d38772 )
+
+}
+
+#gradient4{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background:linear-gradient(120deg,rgb(1, 104, 42),#78bf78 )
+
+}
+
+#gradient5{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background:linear-gradient(120deg,rgb(113, 25, 3),#946765 )
+
+
+}
